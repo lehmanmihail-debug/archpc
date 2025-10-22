@@ -1,4 +1,5 @@
 # archpc
+VARIANT 6
 1.n(x>2)or(x<2>)or(x>4) при x=4
 0 or 0 or 0=0
 
