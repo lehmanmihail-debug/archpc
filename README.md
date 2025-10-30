@@ -16,3 +16,7 @@ n(nB and A)= nnB or nA= B or nA
 5.((nX<->nY)->(Y and X)) or (X->Y)
 ((nX->nY)and(nY->nX)or(Y and X)) or (nX or Y)
 ((X or nY)and(Y or nX)or(Y and X)) or (nX or Y)
+
+**DZ2**
+
+1. F(x,y,z)=nX*nY XOR Y*nZ XOR X*Y
