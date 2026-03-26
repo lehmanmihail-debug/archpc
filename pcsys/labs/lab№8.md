@@ -42,7 +42,7 @@ PerformanceTest - набор тестов, позволяющих оценить
 |Название теста|Aida64|Perfomance Test|
 |-|-|-|
 |Чтение из памяти / Memory read uncached|15962 MB/s|11994 MB/s|
-|Задержка памяти / Memory Latency|15 ns|26 ns|
+|Задержка памяти / Memory Latency|21 ns|26 ns|
 |CPU AES /Encryption|428.1 MB/s|527 MB/s|
 |CPU PhotoWorxx / Integer MAth|8345 Мпкс/с|6812 MOps/s|
 #
