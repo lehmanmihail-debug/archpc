@@ -13,4 +13,4 @@
 
 # Задание на лабораторную работу:
 # №4 Установленный фильтр 
-![mylogs](./image/logs.png)  
+![mylogs](./pcsys/image/logs.png)  
