@@ -1,5 +1,5 @@
 # Практическая работа с MyBIOS
 ## Задания практической
-![Схема](./image/tasksbio.png)
+![Схема](./labs/image/tasksbio.png)
 ## Результат Заданий
-![Схема](./image/taskcomplete.png)
+![Схема](./labs/image/taskcomplete.png)
