@@ -1,1 +1,1 @@
-![MDIX](./img/Lab_Bash_RaspBerry_PI.png)  
+![Rasp](./img/Lab_Bash_RaspBerry_PI.png)  
